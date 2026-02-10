@@ -1,4 +1,4 @@
-# Traffic Data Analysis & Visualization Tool 🚗
+# Traffic Data Analysis & Visualization Tool 
 
 ## Overview
 A Python-based application designed to analyze traffic survey data stored in CSV format. The tool processes raw logs to calculate statistics (vehicle types, speed violations, weather impact) and visualizes hourly traffic volume using a custom-built Histogram GUI.
